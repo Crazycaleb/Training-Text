@@ -33,7 +33,7 @@ public class AllFlavorTexts {
         flavorTexts.add(new FlavorTextObject("Algebra", 2018, 1, 17, "On the bright side, this is the easiest part of it."));
         flavorTexts.add(new FlavorTextObject("Alliances", 2020, 2, 8, "Backstabs may be included."));
         flavorTexts.add(new FlavorTextObject("Alpha-Bits", 2019, 8, 11, "Oh, a pun with alphabet and bits. Neat."));
-        flavorTexts.add(new FlavorTextObject("Alphabet", 2016, 10, 30, "Even more English, now with 100% more alphabetical ordering inside!"));
+        flavorTexts.add(new FlavorTextObject("Alphabet", 2016, 9, 2, "Even more English, now with 100% more alphabetical ordering inside!"));
         flavorTexts.add(new FlavorTextObject("Alphabet Numbers", 2018, 7, 2, "Well, at least here we are getting numbers over 1 million."));
         flavorTexts.add(new FlavorTextObject("Alphabetical Ruling", 2020, 1, 30, "One letter to rule them all. No, wait, how would anyone be able to do that?"));
         flavorTexts.add(new FlavorTextObject("Alphabetize", 2020, 2, 17, "Question: which alphabet?"));
